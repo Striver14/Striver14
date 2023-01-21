@@ -1,8 +1,6 @@
-- 👋 Hey, I’m @Striver14
-- 👀 I’m interested in Coding and Programming 
-- 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me rohanpathak450@gmail.com  Instagram- rohanpathak_14
+- 👋 Hey, I’m Rohan {Striver}
+-  I’m a Coding Enthusiast learning Java and Python I’m also looking forward to collaborate on different multi Projects.
+- 📫 How to reach me rohanpathak450@gmail.com  Instagram- rohann_14.01
 
 <!---
 Striver14/Striver14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
